@@ -2,8 +2,9 @@
 
 This repository holds my projects for each DevReach conference. Nested inside src folder, you will find the relevant year, open that year and you'll also find the README with the details for that year's project.
 
-* [**DevReach 2020 Projects**](https://github.com/LanceMcCarthy/DevReachCompanion/tree/main/src/DevReach2020)
-* [**DevReach 2019 Projects**](https://github.com/LanceMcCarthy/DevReachCompanion/tree/main/src/DevReach2019)
+* [**DevReach 2022**](https://github.com/LanceMcCarthy/DevReachCompanion/tree/main/src/DevReach2022)
+* [**DevReach 2020**](https://github.com/LanceMcCarthy/DevReachCompanion/tree/main/src/DevReach2020)
+* [**DevReach 2019**](https://github.com/LanceMcCarthy/DevReachCompanion/tree/main/src/DevReach2019)
 
 # DevReach 2020
 
@@ -51,6 +52,10 @@ Demonstrating the use of the GitHub Actions CI-CD, find the workflows in `.githu
 | <img src=".images/Screenshots/Android_Home.png" alt="drawing" height="400" /> | <img src=".images/Screenshots/iOS_Home.png" alt="drawing" height="400"/> | <img src=".images/Screenshots/Windows_Home.png" alt="drawing" height="400"/> |
 
 ## Project Summary
+
+### DevReach 2022
+
+This year's DevReach is something new. We have combined three major events (DevReach, ChefConf, and Executive Forum) into one super-conference... [Progress360](https://www.progress.com/progress360). See the [DevReach 2022 README](https://github.com/LanceMcCarthy/DevReachCompanion/tree/main/src/DevReach2022) for more details and how to get the new mobile apps.
 
 ### DevReach 2020
 
